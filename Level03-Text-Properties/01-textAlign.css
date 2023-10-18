@@ -1,0 +1,21 @@
+#box1{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: center;
+    gap: 10px;
+}
+#box2{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: left;
+    gap: 10px;
+}
+#box3{
+    height: 100px;
+    width: 100px;
+    background-color: green;
+    text-align: right;
+    
+}

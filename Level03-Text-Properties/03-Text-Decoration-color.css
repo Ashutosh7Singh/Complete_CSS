@@ -1,0 +1,27 @@
+.box{
+    text-decoration: underline;
+}
+#box1{
+    text-decoration-color: red;
+}
+#box2{
+    text-decoration-color: yellow;
+}
+#box3{
+    text-decoration-color: pink;
+}
+#link{
+    text-decoration-color: saddlebrown;
+}
+#box4{
+    text-decoration-color: powderblue;
+}
+#box5{
+    text-decoration-color: brown;
+}
+#box6{
+    text-decoration-color: firebrick;
+}
+#box7{
+    text-decoration: wavy;
+}
