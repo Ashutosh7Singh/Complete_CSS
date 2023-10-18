@@ -1,0 +1,25 @@
+
+#box1{
+    text-decoration: underline;
+}
+#box2{
+    text-decoration: overline;
+}
+#box3{
+    text-decoration: line-through;
+}
+#link{
+    text-decoration: none;
+}
+#box4{
+    text-decoration: dashed;
+}
+#box5{
+    text-decoration: double;
+}
+#box6{
+    text-decoration: solid;
+}
+#box7{
+    text-decoration: wavy;
+}
