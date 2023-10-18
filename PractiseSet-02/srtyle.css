@@ -1,0 +1,18 @@
+#bar{
+    background-color: aquamarine;
+    color: rgba(103,18,18,0.8);
+}
+main{
+    background-color: hotpink;
+    height: 120px;
+    width: 120px;
+}
+.product{
+    /* background-image: url(./jeans.webp); */
+    width: 10px;
+    height: 100px;
+    /* background-repeat: no-repeat;
+    background-position: center;
+    background-color: green; */
+    background: green url(jeans.webp) no-repeat center;
+}
